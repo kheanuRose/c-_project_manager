@@ -1,0 +1,14 @@
+C:\Users\khean\OneDrive\Desktop\project_manager\bin\Debug\net8.0\project_manager.exe
+C:\Users\khean\OneDrive\Desktop\project_manager\bin\Debug\net8.0\project_manager.deps.json
+C:\Users\khean\OneDrive\Desktop\project_manager\bin\Debug\net8.0\project_manager.runtimeconfig.json
+C:\Users\khean\OneDrive\Desktop\project_manager\bin\Debug\net8.0\project_manager.dll
+C:\Users\khean\OneDrive\Desktop\project_manager\bin\Debug\net8.0\project_manager.pdb
+C:\Users\khean\OneDrive\Desktop\project_manager\obj\Debug\net8.0\project_manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khean\OneDrive\Desktop\project_manager\obj\Debug\net8.0\project_manager.AssemblyInfoInputs.cache
+C:\Users\khean\OneDrive\Desktop\project_manager\obj\Debug\net8.0\project_manager.AssemblyInfo.cs
+C:\Users\khean\OneDrive\Desktop\project_manager\obj\Debug\net8.0\project_manager.csproj.CoreCompileInputs.cache
+C:\Users\khean\OneDrive\Desktop\project_manager\obj\Debug\net8.0\project_manager.dll
+C:\Users\khean\OneDrive\Desktop\project_manager\obj\Debug\net8.0\refint\project_manager.dll
+C:\Users\khean\OneDrive\Desktop\project_manager\obj\Debug\net8.0\project_manager.pdb
+C:\Users\khean\OneDrive\Desktop\project_manager\obj\Debug\net8.0\project_manager.genruntimeconfig.cache
+C:\Users\khean\OneDrive\Desktop\project_manager\obj\Debug\net8.0\ref\project_manager.dll
