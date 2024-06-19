@@ -10,7 +10,7 @@ namespace project
             string path = "project_details.txt";
             Task_manager manager = new Task_manager("", "", "", 0, "");
 
-            Console.WriteLine("Simple CLI task manager\n");
+            Console.WriteLine("Simple CLI task Manager\n");
             bool exitProgram = false;
 
             do
